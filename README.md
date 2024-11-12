@@ -32,3 +32,6 @@ https://github.com/lsy0727/jetson_dxl2/blob/35c7b12e2ad4d13b3b187e755f9f45b1ac59
 프로그램 종료시 장치를 닫음
 
 # 실행 결과
+
+![image](https://github.com/user-attachments/assets/d0ca7ba8-1c8f-41d9-b342-60f9606f41e4)
+
