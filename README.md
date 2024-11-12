@@ -6,3 +6,8 @@ https://github.com/lsy0727/jetson_dxl2/blob/13d4d718883f3235c22dc0f9635cba69d170
 
 line 7 : ctrl_c_pressed : 프로그램을 종료하기 위한 변수 false로 선언
 line 8 : ctrl_c_pressed를 true로 변경하는 함수
+
+https://github.com/lsy0727/jetson_dxl2/blob/eb8fa17828736c3ca8081f48469a5db8215c1145/main.cpp#L15
+
+시그널핸들러 - ctrl_c 입력시 발생
+
