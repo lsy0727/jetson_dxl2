@@ -20,3 +20,10 @@ line 22 : 입력받은 키를 변수 c에 저장
 line 25~30 : 입력받은 키에 따라 모터(바퀴) 제어
 
 line 32 : 설정한 속도를 다이나믹셀 모터로 보냄
+
+https://github.com/lsy0727/jetson_dxl2/blob/9a57f46aaac4499bb9aa8744c2d1992651728a8d/main.cpp#L34-L35
+
+line 34 : ctrl+c 입력시 ctrl_c_pressed가 line 8, 10에 의해 true로 변경되고, while문이 종료
+
+line 35 : 원활한 제어를 위한 딜레이 부여
+
