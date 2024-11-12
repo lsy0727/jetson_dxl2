@@ -13,4 +13,4 @@ https://github.com/lsy0727/jetson_dxl2/blob/eb8fa17828736c3ca8081f48469a5db8215c
 
 https://github.com/lsy0727/jetson_dxl2/blob/8bd72db4ff178794b1575aca70da88095a4ecdfb/main.cpp#L20-L33
 
-line 16
+
