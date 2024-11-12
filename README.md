@@ -30,3 +30,5 @@ line 35 : 원활한 제어를 위한 딜레이 부여
 https://github.com/lsy0727/jetson_dxl2/blob/35c7b12e2ad4d13b3b187e755f9f45b1ac59f0c7/main.cpp#L40
 
 프로그램 종료시 장치를 닫음
+
+# 실행 결과
