@@ -1,6 +1,6 @@
 # jetson_dxl2
 
-# 설명
+## 설명
 
 https://github.com/lsy0727/jetson_dxl2/blob/13d4d718883f3235c22dc0f9635cba69d170a6f4/main.cpp#L7-L8
 
@@ -31,7 +31,15 @@ https://github.com/lsy0727/jetson_dxl2/blob/35c7b12e2ad4d13b3b187e755f9f45b1ac59
 
 프로그램 종료시 장치를 닫음
 
-# 실행 결과
+## 실행 결과
 
 ![image](https://github.com/user-attachments/assets/d0ca7ba8-1c8f-41d9-b342-60f9606f41e4)
 
+## 고찰
+1. 정지명령을 입력했을 때와 프로그램을 종료했을 때 바퀴를 손으로 움직일 때 느껴지는 토크차이
+
+-> 
+
+2. ctrl+c를 눌렀을 때 dxl1의 코드와 결과가 다른 이유
+
+-> 이 코드는 키보드 입력시 버퍼에 쌓이지 않고 바로 처리되기 때문에 ctrl+c를 누르면 신호 바로 처리된다.
