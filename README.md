@@ -16,3 +16,5 @@ https://github.com/lsy0727/jetson_dxl2/blob/8bd72db4ff178794b1575aca70da88095a4e
 line 20 : 키보드입력 여부 확인 (키보드 미입력시 while문 반복)
 
 line 22 : 입력받은 키를 변수 c에 저장
+
+line 25~30 : 입력받은 키에 따라 모터(바퀴) 제어
