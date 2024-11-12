@@ -19,7 +19,7 @@ line 22 : 입력받은 키를 변수 c에 저장
 
 line 25~30 : 입력받은 키에 따라 모터(바퀴) 제어
 
-line 32 : 설정한 속도를 다이나믹셀 모터로 보냄
+line 32 : 설정한 속도를 다이내믹셀 모터로 보냄
 
 https://github.com/lsy0727/jetson_dxl2/blob/9a57f46aaac4499bb9aa8744c2d1992651728a8d/main.cpp#L34-L35
 
