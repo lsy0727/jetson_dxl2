@@ -14,3 +14,5 @@ https://github.com/lsy0727/jetson_dxl2/blob/eb8fa17828736c3ca8081f48469a5db8215c
 https://github.com/lsy0727/jetson_dxl2/blob/8bd72db4ff178794b1575aca70da88095a4ecdfb/main.cpp#L20-L33
 
 line 20 : 키보드입력 여부 확인 (키보드 미입력시 while문 반복)
+
+line 22 : 입력받은 키를 변수 c에 저장
